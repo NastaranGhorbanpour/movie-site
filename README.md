@@ -13,9 +13,13 @@
 <img width="2848" height="1410" alt="Image" src="https://github.com/user-attachments/assets/b90697bb-d97a-4e58-af23-eaee8fc99aa2" />
 
 - [Demo Project](https://movie-site-two-sand.vercel.app/)  (Use VPN)
+- 
 - Developed by Nastaran Ghorbanpour
+- 
 - Created - 2025-07-26
-- Technologies Used : tailwind , Next.Js , React , API 
+- 
+- Technologies Used : tailwind , Next.Js , React , API
+- 
 - How to reach me : with my 
 [instagram](https://www.instagram.com/nestacode.lab/) and 
 [linkedin](https://www.linkedin.com/in/nastaran-ghorbanpour-027a7b349/)

@@ -42,30 +42,23 @@ function SearchResult() {
         <section className='p-15 *:bg-white'>
             {searchs && searchs.map((val) => {
                 return (
+                    <Link href={{ pathname: '/movie', query: { title: val.Title, id: val.id } }}>
                     <div key={val.id} className=' rounded-sm shadow-xl  flex mb-5 border-1 border-[#eeeded]'>
-
-
-                        <div className='w-[15%] '>
-                            <img className='w-full h-full object-cover rounded-sm' src={`https://image.tmdb.org/t/p/original${val.poster_path}`} alt="" />
-                        </div>
-
-
-
-                        <div className='w-[85%] p-10 '>
-                            <Link href={{ pathname: '/movie', query: { title: val.Title, id: val.id } }}>
+                        
+                            <div className='w-[15%] '>
+                                <img className='w-full h-full object-cover rounded-sm' src={`https://image.tmdb.org/t/p/original${val.poster_path}`} alt="" />
+                            </div>
+                            <div className='w-[85%] p-10 '>
                                 <h2 className='font-[semi-bold] text-[25px] cursor-pointer mt-3'>{val.title}</h2>
-                            </Link>
-                            <h4 className='font-[reqular] text-[22px] text-[#999999] '>{val.release_date}</h4>
-                            <p className='font-[reqular] text-[22px] text-[#999999] mt-5'>{val.overview}</p>
-                        </div>
+
+                                <h4 className='font-[reqular] text-[22px] text-[#999999] '>{val.release_date}</h4>
+                                <p className='font-[reqular] text-[22px] text-[#999999] mt-5'>{val.overview}</p>
+                            </div>
+                        
                     </div>
+                    </Link>
                 )
-            })
-            }
-
-
-
-
+            })}
         </section>
     )
 }

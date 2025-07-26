@@ -6,7 +6,8 @@
 ### - Search movies by title
 
 
-<img width="2780" height="1416" alt="Image" src="https://github.com/user-attachments/assets/39dd6dc7-4a98-4581-9792-801257e774d9" />
+<img width="2838" height="1530" alt="Image" src="https://github.com/user-attachments/assets/b888fe97-92bb-43b4-b072-9c00e8afc1f8" />
+
 
 <img width="2832" height="1406" alt="Image" src="https://github.com/user-attachments/assets/0562612f-3a92-4a05-b559-2206f4c619df" />
 

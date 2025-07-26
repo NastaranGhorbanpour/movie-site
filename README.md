@@ -1,4 +1,3 @@
-  [live demo](https://movie-site-two-sand.vercel.app/)
 
 # Movie Info Site
 ## Search for any movie by name and get detailed information such as the plot, rating, genre ...

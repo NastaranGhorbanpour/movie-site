@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="heart" unicode="&#xe801;" d="M500-79q-14 0-25 10l-348 336q-5 5-15 15t-31 37-38 54-30 67-13 77q0 123 71 192t196 70q34 0 70-12t67-33 54-38 42-38q20 20 42 38t54 38 67 33 70 12q125 0 196-70t71-192q0-123-128-251l-347-335q-10-10-25-10z" horiz-adv-x="1000" />
+
+<glyph glyph-name="bookmark" unicode="&#xe803;" d="M650 779q12 0 24-5 19-8 29-23t11-35v-719q0-19-11-35t-29-23q-10-4-24-4-27 0-47 18l-246 236-246-236q-20-19-46-19-13 0-25 5-18 7-29 23t-11 35v719q0 19 11 35t29 23q12 5 25 5h585z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="list-bullet" unicode="&#xf0ca;" d="M214 64q0-44-31-76t-76-31-76 31-31 76 31 76 76 31 76-31 31-76z m0 286q0-45-31-76t-76-31-76 31-31 76 31 76 76 31 76-31 31-76z m786-232v-107q0-7-5-13t-13-5h-678q-8 0-13 5t-5 13v107q0 7 5 12t13 6h678q7 0 13-6t5-12z m-786 518q0-45-31-76t-76-31-76 31-31 76 31 76 76 31 76-31 31-76z m786-232v-108q0-7-5-12t-13-5h-678q-8 0-13 5t-5 12v108q0 7 5 12t13 5h678q7 0 13-5t5-12z m0 285v-107q0-7-5-12t-13-6h-678q-8 0-13 6t-5 12v107q0 8 5 13t13 5h678q7 0 13-5t5-13z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
